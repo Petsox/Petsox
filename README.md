@@ -1,5 +1,6 @@
 I’m @Petsox (Petr Křížek)
 Ye its me, it is just me.
 
+Im beginner developer, but learing :D
 
-I was talkin' to myself just the other day, I was hearin' lots of things I never thought I'd say, but one thing I said really blew my mind (Who's who?)
+I code in HTML, JavaScript, Java and Lua
